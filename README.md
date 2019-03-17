@@ -4,3 +4,4 @@ extract the .rar file
 open the project in netbeans
 open the page named "first page" first
 start using the software
+Find the report attached for reference
