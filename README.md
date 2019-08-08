@@ -2,6 +2,6 @@
 Java(NetBeans) and MySQL have been used
 extract the .rar file
 open the project in netbeans
-open the page named "first page" first
+open the page named "first page" first,
 start using the software
-Find the report attached for reference
+There is a report attached for reference.
